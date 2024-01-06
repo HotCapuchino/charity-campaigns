@@ -1,0 +1,13 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-chai-matchers": "^2.0.2",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "@types/lodash.omit": "^4.5.9",
+    "ethereum-waffle": "^4.0.10",
+    "hardhat": "^2.19.1",
+    "lodash.isequal": "^4.5.0",
+    "lodash.omit": "^4.5.0",
+    "@types/lodash.isequal": "^4.5.8"
+  }
+}
